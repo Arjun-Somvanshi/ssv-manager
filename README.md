@@ -1,2 +1,2 @@
-# SSV manager
-A tool to help track ssv clusters, validators from the cli
+# ssv-manager
+A tool to help track clusters and validators on SSV from the cli
